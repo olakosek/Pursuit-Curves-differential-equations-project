@@ -1,0 +1,13 @@
+(Miasto,samolot,rakieta)
+Przykład zaczerpnięty z artykułu: https://www.scribd.com/document/795884290/Math-IA-Real?v=0.159
+
+Więcej o wielkim matematyku wspomnianym w tekście: https://en.wikipedia.org/wiki/Pursuit_curve#History
+
+Oba diagramy: diagramkwadrat.png i diagramwektory.png, stworzone zostały na podstawie grafik z artykułu przy pomocy Gemini
+
+(Wyprowadzenie)
+Wyprowadzenie częściowo wzięte z Wikipedi rozszerzone o równania różniczkowe: https://pl.wikipedia.org/wiki/Krzywa_pogoni#Wyprowadzenie
+
+(Inne zastosowania krzywych pogoni)
+Przykład zaczerpnięty z blogu: https://answermind.blog/math-guides-missiles-guide-curves-pursuit
+
